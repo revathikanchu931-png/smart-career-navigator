@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Career Navigator
 
 Welcome to **Smart Career Navigator**, a full-stack, enterprise-grade guidance portal tailored specifically for students, fresh graduates, and aspiring software engineers. It helps navigate first-career decisions, identify professional skills gaps, test technical competencies, scan/optimize resumes for Applicant Tracking Systems (ATS), and synchronize opportunities.
@@ -76,3 +77,6 @@ GEMINI_API_KEY=your_gemini_api_key_here
 ---
 
 
+=======
+# smart-career-navigator
+>>>>>>> ed8fedbde898fbc34d846dd5ca05083ecd17a45c
