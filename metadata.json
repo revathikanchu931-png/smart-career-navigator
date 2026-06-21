@@ -1,0 +1,6 @@
+{
+  "name": "Smart Career Navigator",
+  "description": "A smart career platform helping students and fresh grads with assessment, resume analysis, skill gaps, and learning pathways.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
